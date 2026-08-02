@@ -15,7 +15,7 @@
 ## Ejemplo de criterio medible
 
 Requisito:
-"El sistema debe permitir reservar una cita académica"
+El sistema debe permitir reservar una cita académica
 
 Criterio de aceptación:
-"El estudiante podrá seleccionar docente, fecha y hora; al confirmar la cita recibirá una notificación en menos de 3 segundos"
+El estudiante podrá seleccionar docente, fecha y hora; al confirmar la cita recibirá una notificación en menos de 3 segundos
